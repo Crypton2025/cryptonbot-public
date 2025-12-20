@@ -103,6 +103,14 @@ This project is built as an **engineering system**, not a marketing product.
 The roadmap is intentionally conservative.
 
 ---
+## Validation & Quality
+
+A sanitized test and validation report is available here:
+
+- docs/quality/test-report-2025-07-06.md
+
+This report demonstrates system integrity, testing approach,
+and engineering discipline without exposing proprietary logic.
 
 ## Support the Project
 
