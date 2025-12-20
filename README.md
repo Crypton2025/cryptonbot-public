@@ -114,6 +114,6 @@ CryptonBot is developed independently and requires ongoing work:
 
 If you find the project valuable and want to support its development:
 
-👉 **Patreon:** https://www.patreon.com/Crypton2025
+👉 **Patreon:** https://www.patreon.com/cw/CryptonBot
 
 Support does **not** grant financial
