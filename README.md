@@ -124,4 +124,6 @@ If you find the project valuable and want to support its development:
 
 👉 **Patreon:** https://www.patreon.com/cw/CryptonBot
 
-Support does **not** grant financial
+Support does not grant financial services, signals, or profit guarantees.
+This project is not an investment product and does not provide financial advice.
+Support is used to sustain engineering work, infrastructure, and documentation.
