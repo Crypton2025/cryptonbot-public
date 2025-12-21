@@ -1,3 +1,4 @@
+Public roadmap: https://github.com/Crypton2025/cryptonbot-public/blob/main/ROADMAP.md
 # cryptonbot-public
 Public community repository for CryptonBot — architecture, documentation, and selected code samples.
 # CryptonBot — Public Community Repository
