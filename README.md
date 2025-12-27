@@ -1,4 +1,5 @@
 Public roadmap: https://github.com/Crypton2025/cryptonbot-public/blob/main/ROADMAP.md
+Latest update: https://github.com/Crypton2025/cryptonbot-public/blob/main/docs/updates/2025-12-27-risk-black-swan.md
 # cryptonbot-public
 Public community repository for CryptonBot — architecture, documentation, and selected code samples.
 # CryptonBot — Public Community Repository
